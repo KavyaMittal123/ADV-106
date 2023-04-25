@@ -1,0 +1,30 @@
+body{
+    font-family: 'Pacifico', cursive;
+    background:linear-gradient(
+        rgb(125, 123, 255) 0% , rgba(241, 185, 252, 0.954) 100%
+    );
+    
+}
+
+.headerdiv p{
+    background-color:F9B1F9;
+    color: black;
+    font-family: 'Sedgwick Ave Display', cursive;
+    font-size:25px;
+}
+
+.maindiv button{
+    font-size:15px;
+    color:rgb(0, 0, 0);
+    font-weight:bold;
+}
+
+.copyright-footer{
+    position:fixed;
+    bottom:0;
+    width:100%;
+    line-height:3;
+    font-size:15;
+    background-color:rgb(255, 255, 255);
+    text-align:center;
+}
